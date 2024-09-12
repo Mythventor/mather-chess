@@ -11,17 +11,16 @@ import Endgame from './components/EndGame';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/mather-chess"> {/* Set the basename to match the subdirectory */}
       <div>
         <Routes>
+          <Route path="/" element={<MatherChess />} /> {/* Adjust the root route */}
           <Route path="/chessboard" element={<ChessBoard />} />
           <Route path="/contactus" element={<ContactUs />} />
           <Route path="/Opening" element={<Opening />} />
           <Route path="/Beginner" element={<Beginner />} />
           <Route path="/MiddleGame" element={<MiddleGame />} />
           <Route path="/Endgame" element={<Endgame />} />
-
-          <Route path="/" element={<MatherChess />} />
 
           {/* Add other routes here */}
         </Routes>
