@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mather-chess/static/css/main.f1525f7c.css",
-    "main.js": "/mather-chess/static/js/main.f1c7ed9b.js",
-    "static/js/453.87727ede.chunk.js": "/mather-chess/static/js/453.87727ede.chunk.js",
-    "static/media/MrBuse.jpg": "/mather-chess/static/media/MrBuse.3e889acdb504a19c9ead.jpg",
-    "static/media/Chesspic2.jpeg": "/mather-chess/static/media/Chesspic2.ba877055c13a593810ab.jpeg",
-    "static/media/Chesspic.jpg": "/mather-chess/static/media/Chesspic.806d0448d0d2e7d766ed.jpg",
-    "static/media/Chesspic4.jpeg": "/mather-chess/static/media/Chesspic4.3fc05feb4108ade7ca52.jpeg",
-    "static/media/Chesspic6.jpeg": "/mather-chess/static/media/Chesspic6.a123c9c957c4cf30e4ae.jpeg",
-    "static/media/Chesspic5.jpeg": "/mather-chess/static/media/Chesspic5.40574beb20f0366a4c43.jpeg",
-    "index.html": "/mather-chess/index.html",
-    "main.f1525f7c.css.map": "/mather-chess/static/css/main.f1525f7c.css.map",
-    "main.f1c7ed9b.js.map": "/mather-chess/static/js/main.f1c7ed9b.js.map",
-    "453.87727ede.chunk.js.map": "/mather-chess/static/js/453.87727ede.chunk.js.map"
+    "main.css": "/static/css/main.f1525f7c.css",
+    "main.js": "/static/js/main.28a62619.js",
+    "static/js/453.87727ede.chunk.js": "/static/js/453.87727ede.chunk.js",
+    "static/media/MrBuse.jpg": "/static/media/MrBuse.3e889acdb504a19c9ead.jpg",
+    "static/media/Chesspic2.jpeg": "/static/media/Chesspic2.ba877055c13a593810ab.jpeg",
+    "static/media/Chesspic.jpg": "/static/media/Chesspic.806d0448d0d2e7d766ed.jpg",
+    "static/media/Chesspic4.jpeg": "/static/media/Chesspic4.3fc05feb4108ade7ca52.jpeg",
+    "static/media/Chesspic6.jpeg": "/static/media/Chesspic6.a123c9c957c4cf30e4ae.jpeg",
+    "static/media/Chesspic5.jpeg": "/static/media/Chesspic5.40574beb20f0366a4c43.jpeg",
+    "index.html": "/index.html",
+    "main.f1525f7c.css.map": "/static/css/main.f1525f7c.css.map",
+    "main.28a62619.js.map": "/static/js/main.28a62619.js.map",
+    "453.87727ede.chunk.js.map": "/static/js/453.87727ede.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1525f7c.css",
-    "static/js/main.f1c7ed9b.js"
+    "static/js/main.28a62619.js"
   ]
 }
